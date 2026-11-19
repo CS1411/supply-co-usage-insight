@@ -13,7 +13,7 @@ Which medical supplies are used together across procedures? This tool simulates 
 ## Milestones
 
 - [x] **1. Create mock medical procedure data, where each procedure lists used supply SKUs.**
-- [ ] **2. Implement frequent itemset mining.**
+- [x] **2. Implement frequent itemset mining.**
 - [ ] **3. Analyze and display the most frequent co-occurring supply itemsets.**
 - [ ] **4. Compare the mined itemsets against simple baseline expectations.**
 - [ ] **5. Generate a report of identified supply bundles.**
